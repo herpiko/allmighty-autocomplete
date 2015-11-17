@@ -1,0 +1,19 @@
+{
+  "name": "allmighty-autocomplete",
+  "version": "1.0.0",
+  "description": "npm module for https://github.com/JustGoscha/allmighty-autocomplete",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/herpiko/allmighty-autocomplete.git"
+  },
+  "author": "https://github.com/JustGoscha; herpiko@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herpiko/allmighty-autocomplete/issues"
+  },
+  "homepage": "https://github.com/herpiko/allmighty-autocomplete#readme"
+}
