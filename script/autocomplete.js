@@ -296,3 +296,5 @@ app.directive('suggestion', function(){
     }
   };
 });
+
+module.exports = angular;
